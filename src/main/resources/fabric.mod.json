@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "deltime",
+  "version": "${version}",
+  "name": "DelTime",
+  "description": "",
+  "authors": [
+    "tcd3v"
+  ],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/deltime/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "ru.tcd3v.deltime.client.DeltimeClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": "*",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

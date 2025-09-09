@@ -1,0 +1,5 @@
+{
+  "key.itemtimer.toggle": "Переключить отображение таймера предметов",
+  "key.itemtimer.toggle_mode": "Переключить режим отображения (всегда/при наведении)",
+  "category.itemtimer.general": "Item Timer"
+}
