@@ -24,7 +24,7 @@ This mod does not change item mechanics and works purely on the client.
 
 ## 📥 Installation
 1. Install [Fabric Loader](https://fabricmc.net/) and [Fabric API](https://modrinth.com/mod/fabric-api).  
-2. Download the latest release of **DelTime** from [Modrinth](https://modrinth.com/mod).  
+2. Download the latest release of **DelTime** from [Modrinth](https://modrinth.com/mod/deltime).  
 3. Place the `.jar` file into the `mods` folder of your Minecraft client.  
 
 ---
